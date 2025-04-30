@@ -1,5 +1,5 @@
 ### Build Configuration ###
-
+#
 # Default platform variables
 PLATFORM      ?= gba
 CPU_ARCH      ?= arm
